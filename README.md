@@ -51,7 +51,7 @@ I love turning ideas into real products — one widget at a time.
 - 📊 Progress tracking and animated score screen
 - 🎨 Built with Flutter, Google Fonts & Material 3
 
-[![Repo](https://img.shields.io/badge/View%20Repo-008751?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Georgeoloche/nigeria-quiz-app)
+[![Repo](https://img.shields.io/badge/View%20Repo-008751?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Georgeoloche/Nigerian_trivia)
 
 ---
 
