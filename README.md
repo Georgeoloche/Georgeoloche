@@ -53,7 +53,21 @@ I love turning ideas into real products — one widget at a time.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-008751?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Georgeoloche/Nigerian_trivia)
 
----
+---## Expense_Tracker
+**Track your spending. Build financial responsibility.** — A personal expense tracker built to help you understand where your money goes every single day.
+## ✨ Features
+
+- ➕ **Add expenses** — amount, category, and optional note
+- ✏️ **Edit expenses** — tap any entry to update it
+- 🗑️ **Delete expenses** — swipe left to remove
+- 📅 **Daily grouping** — expenses grouped by Today, Yesterday, and older dates
+- 📊 **Daily comparison** — see if you spent more or less today vs yesterday
+- 💰 **Total spending** — all-time total displayed at the top
+- 🏷️ **Categories** — Food, Transport, Bills, Others
+- 💾 **Fully offline** — all data stored locally using Hive
+- 🔄 **Persistent storage** — data survives app restarts
+
+
 
 ## 📊 GitHub Stats
 
